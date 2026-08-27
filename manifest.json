@@ -5,7 +5,7 @@
   "description": "MyWidget iCUE widget",
   "version": "1.0.0",
   "preview_icon": "resources/icon.svg",
-  "min_app_version": "5.45",
+  "min_app_version": "5.47",
   "min_framework_version": "1.0.0",
   "os": [
     {
